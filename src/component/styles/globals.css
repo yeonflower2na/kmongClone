@@ -1,0 +1,59 @@
+/* pretendard */
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css");
+
+/* bootstrap */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+/* root */
+:root{
+  --morelightBlue: #edfbfd;
+  --lightBlue : #ebf4ff;
+  --blue : #116ad4;
+  --lightgray: #ddd;
+  --gray: #727585;
+  --red: rgb(255 64 43);
+  --yellow: #ffd400;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  min-width: 1200px;
+  font-family: "Pretendard Variable";
+}
+
+a{
+  text-decoration: none;
+  color: #333;
+}
+
+ul li{
+  list-style: none;
+}
+
+img{
+  display: block;
+  width: 100%;
+}
+
+.inner{
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* theme */
+.body{
+  background-color: #fff;
+  color: #333;
+  transition: background 0.3s, color 0.3s;
+}
+
+body.darkMode {
+  background-color: black;
+  color: white;
+}
