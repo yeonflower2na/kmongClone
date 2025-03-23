@@ -1,13 +1,11 @@
 import React from 'react';
 import PopularSectionCard from './PopularSectionCard';
 
-export default function PopularSectionFindList ({items}) {
-
+export default function PopularSectionFindList({ title, items, category }) {
   return (
-    <article className='popularContent'>
-      <h2>쇼핑몰 사장님이 <br />
-        많이 찾아요</h2>
-      <PopularSectionCard items={items}/>
+    <article className="popularContent">
+      {title}
+      <PopularSectionCard items={items} category={category} />
     </article>
-  )
+  );
 }
