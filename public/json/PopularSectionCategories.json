@@ -1,0 +1,134 @@
+[
+  {
+    "category":"쇼핑몰 사장님",
+    "src":"/images/popularSection01.webp",
+    "prime": false,
+    "title":"구매전환율을 올리는 움직이는 상세페이지 GIF 제작",
+    "rating":4.9,
+    "comment":461,
+    "price":8000,
+    "logo":"/images/PopularLogo01.jpg",
+    "logoTitle":"지펀디자인"
+  },
+  {
+    "category":"쇼핑몰 사장님",
+    "src":"/images/popularSection02.webp",
+    "prime": true,
+    "title":"셔터팡 맛있는 음식사진 촬영해 드립니다.",
+    "rating":4.9,
+    "comment":308,
+    "price":120000,
+    "logo":"/images/PopularLogo02.jpg",
+    "logoTitle":"셔터팡"
+  },
+  {
+    "category":"쇼핑몰 사장님",
+    "src":"/images/popularSection03.webp",
+    "prime": true,
+    "title":"구매평,자사몰,스토어리뷰,리뷰,후기 계산서OK,택배OK",
+    "rating":4.9,
+    "comment":493,
+    "price":40000,
+    "logo":"/images/PopularLogo03.png",
+    "logoTitle":"올바른마케팅"
+  },
+  {
+    "category":"쇼핑몰 사장님",
+    "src":"/images/popularSection04.webp",
+    "prime": true,
+    "title":"카페배포 포스팅 바이럴마케팅 광고 최적화노출해 드립니다",
+    "rating":4.9,
+    "comment":882,
+    "price":11000,
+    "logo":"/images/PopularLogo04.png",
+    "logoTitle":"리뷰모아"
+  },
+  {
+    "category":"매장 운영",
+    "src":"/images/popularSection05.webp",
+    "prime": false,
+    "title":"명품 로고｜24시간 제작 로고디자인 명함 CI BI",
+    "rating":4.9,
+    "comment":1051,
+    "price":39000,
+    "logo":"/images/PopularLogo05.jpg",
+    "logoTitle":"탐디자인"
+  },
+  {
+    "category":"매장 운영",
+    "src":"/images/popularSection06.webp",
+    "prime": false,
+    "title":"컨셉에 맞는 음식사진 및 메뉴사진 촬영합니다. 출장가능",
+    "rating":4.9,
+    "comment":118,
+    "price":120000,
+    "logo":"/images/PopularLogo06.jpg",
+    "logoTitle":"이상한포토"
+  },
+  {
+    "category":"매장 운영",
+    "src":"/images/popularSection07.webp",
+    "prime": false,
+    "title":"맞춤형 전단지/포스터 를 제작합니다.",
+    "rating":4.9,
+    "comment":527,
+    "price":18000,
+    "logo":"/images/PopularLogo07.jpg",
+    "logoTitle":"SookDesign"
+  },
+  {
+    "category":"매장 운영",
+    "src":"/images/popularSection08.webp",
+    "prime": true,
+    "title":"N사 포털 지도 실유저 수작업 리워드 트래픽 저장하기",
+    "rating":4.9,
+    "comment":1191,
+    "price":55000,
+    "logo":"/images/PopularLogo08.png",
+    "logoTitle":"호떡마케팅"
+  },
+  {
+    "category":"예비 창업가",
+    "src":"/images/popularSection09.webp",
+    "prime": false,
+    "title":"당일제작 맞춤 명함디자인 명함인쇄",
+    "rating":4.9,
+    "comment":59,
+    "price":10000,
+    "logo":"/images/PopularLogo09.png",
+    "logoTitle":"느루컴퍼니"
+  },
+  {
+    "category":"예비 창업가",
+    "src":"/images/popularSection10.webp",
+    "prime": true,
+    "title":"홈페이지제작, 반응형홈페이지, 1개월 유지보수 제공",
+    "rating":4.9,
+    "comment":99,
+    "price":330000,
+    "logo":"/images/PopularLogo10.jpg",
+    "logoTitle":"웹반응형홈페이지아이덴"
+  },
+  {
+    "category":"예비 창업가",
+    "src":"/images/popularSection11.webp",
+    "prime": false,
+    "title":"Android / iOS 네이티브 앱 개발",
+    "rating":5.0,
+    "comment":2,
+    "price":50000,
+    "logo":"/images/PopularLogo11.jpg",
+    "logoTitle":"지펀디자인"
+  },
+  {
+    "category":"예비 창업가",
+    "src":"/images/popularSection12.webp",
+    "prime": false,
+    "title":"예창,초창,창업중심대학 다양한 정부지원 사업계획서 첨삭",
+    "rating":4.9,
+    "comment":76,
+    "price":750000,
+    "logo":"/images/PopularLogo12.jpg",
+    "logoTitle":"TEO74"
+  }
+]

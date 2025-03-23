@@ -7,10 +7,9 @@ export default function  IconMenuSectionItems () {
   const [iconCategories, seticonCategories] = useState([]);
   
   useEffect(() => {
-    fetch("/IconMenuSectionCategories.json")
+    fetch("/json/IconMenuSectionCategories.json")
       .then((res) => res.json())
       .then((data) => {
-        console.log(data);
         seticonCategories(data || { iconCategories: [], iconCategoriesHidden: [] });
       })
       .catch((error) => console.error('데이터 로드 실패:', error));
