@@ -1,6 +1,48 @@
-section{
-  height: 10px;
-  line-height: 10px;
-  border: 1px solid #000;
+.introSection{
   text-align: center;
+  height: max-content;
+  margin: 96px auto 80px;
+}
+
+.introCard{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.introCard-content{
+  border: 1px solid var(--border);
+  padding: 2rem;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, .1);
+  border-radius: .25rem;
+}
+
+.introCard h3{
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.introCard-title{
+  font-style: normal;
+}
+
+.introCard-title.design{
+  color: #FB842D;
+}
+.introCard-title.marketing{
+  color: #4B94FA;
+}
+.introCard-title.trend{
+  color: #823CE6;
+}
+
+.introCard-group{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+.introCard-item img{
+  border-radius: .25rem;
 }

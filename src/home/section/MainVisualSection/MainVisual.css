@@ -1,6 +1,6 @@
-section{
-  height: 10px;
-  line-height: 10px;
+.mainVisual{
   border: 1px solid #000;
   text-align: center;
+  height: 3rem;
+  line-height: 3rem;
 }

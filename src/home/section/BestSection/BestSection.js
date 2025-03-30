@@ -3,7 +3,7 @@ import './BestSection.css';
 
 export default function BestSection() {
   return (
-    <section>
+    <section className='bestSection inner'>
       BestSection
     </section>
   );
